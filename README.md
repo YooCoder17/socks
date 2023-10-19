@@ -1,10 +1,3 @@
-# React Socks
-
-[![Build Status](https://travis-ci.org/flexdinesh/react-socks.svg?branch=master)](https://travis-ci.org/flexdinesh/react-socks)
-[![npm version](https://badge.fury.io/js/react-socks.svg)](https://www.npmjs.com/package/react-socks)
-[![dependencies Status](https://david-dm.org/flexdinesh/react-socks/status.svg)](https://david-dm.org/flexdinesh/react-socks)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Wrap your components with **React Socks** to prevent unnecessary render in different viewports.
 
 ```jsx
@@ -257,15 +250,3 @@ const CustomComponent = () => {
   }
 }
 ```
-
-## Contributors
-
-Thanks goes to these amazing people 🎉
-
-| [<img src="https://avatars3.githubusercontent.com/u/5777880?v=4" width="100px;"/><br /><sub><b>Dinesh Pandiyan</b></sub>](https://github.com/flexdinesh)<br /> | [<img src="https://avatars1.githubusercontent.com/u/3236388?v=4" width="100px;"/><br /><sub><b>Capelo</b></sub>](https://github.com/antoniocapelo)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8450195?v=4" width="100px;"/><br /><sub><b>Adarsh</b></sub>](https://github.com/sadarshannaiynar)<br /> | [<img src="https://avatars1.githubusercontent.com/u/22812131?v=4" width="100px;"/><br /><sub><b>Patryk</b></sub>](https://github.com/PatrykRudzinski)<br /> | [<img src="https://avatars1.githubusercontent.com/u/9076205?v=4" width="100px;"/><br /><sub><b>WRNGFRNK</b></sub>](https://github.com/wrngfrnk)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9896958?&v=4" width="100px;"/><br /><sub><b>Farhad Yasir</b></sub>](https://github.com/nutboltu)<br />
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars1.githubusercontent.com/u/13507950?v=4" width="100px;"/><br /><sub><b>Entkenntnis</b></sub>](https://github.com/Entkenntnis)<br /> | [<img src="https://avatars1.githubusercontent.com/u/1263310?v=4" width="100px;"/><br /><sub><b>Douglas Moore</b></sub>](https://github.com/dbryantm)<br /> | [<img src="https://avatars1.githubusercontent.com/u/49582824?v=4" width="100px;"/><br /><sub><b>Abdul rehman</b></sub>](https://github.com/rehman-00001)<br /> | [<img src="https://avatars.githubusercontent.com/u/2353850?v=4" width="100px;"/><br /><sub><b>Nawaz Khan</b></sub>](https://github.com/nawazkhan)<br /> | [<img src="https://avatars.githubusercontent.com/u/27327?v=4" width="100px;"/><br /><sub><b>hems.io</b></sub>](https://github.com/hems)<br />
-
-## License
-
-MIT © Dinesh Pandiyan
